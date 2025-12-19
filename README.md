@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunalgupta21/DS_Algo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalgupta21/DS_Algo/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/kunalgupta21/DS_Algo/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/kunalgupta21/DS_Algo/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kunalgupta21/DS_Algo/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
@@ -66,4 +67,5 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunalgupta21/DS_Algo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalgupta21/DS_Algo/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/kunalgupta21/DS_Algo/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
