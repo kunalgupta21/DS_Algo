@@ -68,4 +68,20 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunalgupta21/DS_Algo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalgupta21/DS_Algo/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/kunalgupta21/DS_Algo/tree/master/0162-find-peak-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kunalgupta21/DS_Algo/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kunalgupta21/DS_Algo/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kunalgupta21/DS_Algo/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kunalgupta21/DS_Algo/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
