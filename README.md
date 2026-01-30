@@ -10,6 +10,7 @@
 | [0200-number-of-islands](https://github.com/kunalgupta21/DS_Algo/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/kunalgupta21/DS_Algo/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kunalgupta21/DS_Algo/tree/master/0304-range-sum-query-2d-immutable) |
+| [0994-rotting-oranges](https://github.com/kunalgupta21/DS_Algo/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunalgupta21/DS_Algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Matrix
@@ -17,6 +18,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/kunalgupta21/DS_Algo/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kunalgupta21/DS_Algo/tree/master/0304-range-sum-query-2d-immutable) |
+| [0994-rotting-oranges](https://github.com/kunalgupta21/DS_Algo/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
 ## Prefix Sum
 |  |
@@ -80,6 +82,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/kunalgupta21/DS_Algo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kunalgupta21/DS_Algo/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/kunalgupta21/DS_Algo/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
