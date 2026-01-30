@@ -14,6 +14,7 @@
 | [0994-rotting-oranges](https://github.com/kunalgupta21/DS_Algo/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunalgupta21/DS_Algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1765-map-of-highest-peak](https://github.com/kunalgupta21/DS_Algo/tree/master/1765-map-of-highest-peak) |
 ## Matrix
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0542-01-matrix](https://github.com/kunalgupta21/DS_Algo/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/kunalgupta21/DS_Algo/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
+| [1765-map-of-highest-peak](https://github.com/kunalgupta21/DS_Algo/tree/master/1765-map-of-highest-peak) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0542-01-matrix](https://github.com/kunalgupta21/DS_Algo/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kunalgupta21/DS_Algo/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/kunalgupta21/DS_Algo/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/kunalgupta21/DS_Algo/tree/master/1765-map-of-highest-peak) |
 ## Union-Find
 |  |
 | ------- |
