@@ -112,4 +112,13 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kunalgupta21/DS_Algo/tree/master/0203-remove-linked-list-elements) |
+| [0779-k-th-symbol-in-grammar](https://github.com/kunalgupta21/DS_Algo/tree/master/0779-k-th-symbol-in-grammar) |
+## Math
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/kunalgupta21/DS_Algo/tree/master/0779-k-th-symbol-in-grammar) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/kunalgupta21/DS_Algo/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
