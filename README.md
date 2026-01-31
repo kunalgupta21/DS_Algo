@@ -104,4 +104,12 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/kunalgupta21/DS_Algo/tree/master/0542-01-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/kunalgupta21/DS_Algo/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/kunalgupta21/DS_Algo/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
