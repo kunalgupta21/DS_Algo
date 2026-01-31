@@ -11,6 +11,7 @@
 | [0239-sliding-window-maximum](https://github.com/kunalgupta21/DS_Algo/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kunalgupta21/DS_Algo/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/kunalgupta21/DS_Algo/tree/master/0542-01-matrix) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kunalgupta21/DS_Algo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0994-rotting-oranges](https://github.com/kunalgupta21/DS_Algo/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunalgupta21/DS_Algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -76,6 +77,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunalgupta21/DS_Algo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalgupta21/DS_Algo/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/kunalgupta21/DS_Algo/tree/master/0162-find-peak-element) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kunalgupta21/DS_Algo/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
