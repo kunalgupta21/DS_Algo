@@ -45,6 +45,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/kunalgupta21/DS_Algo/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0784-letter-case-permutation](https://github.com/kunalgupta21/DS_Algo/tree/master/0784-letter-case-permutation) |
 ## String Matching
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/kunalgupta21/DS_Algo/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/kunalgupta21/DS_Algo/tree/master/0784-letter-case-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/kunalgupta21/DS_Algo/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
