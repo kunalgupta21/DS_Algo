@@ -18,6 +18,7 @@
 | [1765-map-of-highest-peak](https://github.com/kunalgupta21/DS_Algo/tree/master/1765-map-of-highest-peak) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3637-trionic-array-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3637-trionic-array-i) |
 ## Matrix
 |  |
 | ------- |
