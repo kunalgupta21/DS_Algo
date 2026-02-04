@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kunalgupta21/DS_Algo/tree/master/0200-number-of-islands) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kunalgupta21/DS_Algo/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/kunalgupta21/DS_Algo/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -150,4 +151,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunalgupta21/DS_Algo/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/kunalgupta21/DS_Algo/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/kunalgupta21/DS_Algo/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/kunalgupta21/DS_Algo/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
