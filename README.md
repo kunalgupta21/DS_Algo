@@ -47,6 +47,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunalgupta21/DS_Algo/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/kunalgupta21/DS_Algo/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/kunalgupta21/DS_Algo/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/kunalgupta21/DS_Algo/tree/master/0784-letter-case-permutation) |
@@ -130,6 +131,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kunalgupta21/DS_Algo/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/kunalgupta21/DS_Algo/tree/master/0070-climbing-stairs) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kunalgupta21/DS_Algo/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bit Manipulation
@@ -173,5 +175,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kunalgupta21/DS_Algo/tree/master/0043-multiply-strings) |
 | [1929-concatenation-of-array](https://github.com/kunalgupta21/DS_Algo/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
