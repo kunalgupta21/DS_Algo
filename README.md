@@ -92,6 +92,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/kunalgupta21/DS_Algo/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/kunalgupta21/DS_Algo/tree/master/0200-number-of-islands) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kunalgupta21/DS_Algo/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/kunalgupta21/DS_Algo/tree/master/0547-number-of-provinces) |
@@ -159,6 +160,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/kunalgupta21/DS_Algo/tree/master/0110-balanced-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kunalgupta21/DS_Algo/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Search Tree
 |  |
@@ -167,6 +169,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/kunalgupta21/DS_Algo/tree/master/0110-balanced-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kunalgupta21/DS_Algo/tree/master/0538-convert-bst-to-greater-tree) |
 ## Stack
 |  |
