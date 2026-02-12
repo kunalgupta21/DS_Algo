@@ -19,6 +19,7 @@
 | [1929-concatenation-of-array](https://github.com/kunalgupta21/DS_Algo/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3637-trionic-array-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3637-trionic-array-i) |
 ## Matrix
 |  |
@@ -34,6 +35,7 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/kunalgupta21/DS_Algo/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kunalgupta21/DS_Algo/tree/master/0239-sliding-window-maximum) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +70,7 @@
 | [0239-sliding-window-maximum](https://github.com/kunalgupta21/DS_Algo/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,6 +144,7 @@
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/kunalgupta21/DS_Algo/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/kunalgupta21/DS_Algo/tree/master/0784-letter-case-permutation) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
