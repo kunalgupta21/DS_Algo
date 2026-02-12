@@ -55,6 +55,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/kunalgupta21/DS_Algo/tree/master/0784-letter-case-permutation) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalgupta21/DS_Algo/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalgupta21/DS_Algo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## String Matching
 |  |
@@ -72,6 +73,7 @@
 | [0239-sliding-window-maximum](https://github.com/kunalgupta21/DS_Algo/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1652-defuse-the-bomb](https://github.com/kunalgupta21/DS_Algo/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalgupta21/DS_Algo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/kunalgupta21/DS_Algo/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalgupta21/DS_Algo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Binary Search
 |  |
@@ -189,4 +192,8 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/kunalgupta21/DS_Algo/tree/master/0043-multiply-strings) |
 | [1929-concatenation-of-array](https://github.com/kunalgupta21/DS_Algo/tree/master/1929-concatenation-of-array) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalgupta21/DS_Algo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
