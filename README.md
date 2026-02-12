@@ -55,6 +55,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/kunalgupta21/DS_Algo/tree/master/0784-letter-case-permutation) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalgupta21/DS_Algo/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## String Matching
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1652-defuse-the-bomb](https://github.com/kunalgupta21/DS_Algo/tree/master/1652-defuse-the-bomb) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
