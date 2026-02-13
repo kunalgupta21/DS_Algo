@@ -38,6 +38,7 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/kunalgupta21/DS_Algo/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/kunalgupta21/DS_Algo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
 |  |
@@ -58,6 +59,7 @@
 | [0784-letter-case-permutation](https://github.com/kunalgupta21/DS_Algo/tree/master/0784-letter-case-permutation) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalgupta21/DS_Algo/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalgupta21/DS_Algo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/kunalgupta21/DS_Algo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## String Matching
 |  |
@@ -78,6 +80,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalgupta21/DS_Algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/kunalgupta21/DS_Algo/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalgupta21/DS_Algo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/kunalgupta21/DS_Algo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -104,6 +107,7 @@
 | [0035-search-insert-position](https://github.com/kunalgupta21/DS_Algo/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/kunalgupta21/DS_Algo/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalgupta21/DS_Algo/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/kunalgupta21/DS_Algo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Depth-First Search
 |  |
 | ------- |
