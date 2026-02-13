@@ -20,6 +20,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunalgupta21/DS_Algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/kunalgupta21/DS_Algo/tree/master/1765-map-of-highest-peak) |
 | [1929-concatenation-of-array](https://github.com/kunalgupta21/DS_Algo/tree/master/1929-concatenation-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [1652-defuse-the-bomb](https://github.com/kunalgupta21/DS_Algo/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalgupta21/DS_Algo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kunalgupta21/DS_Algo/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -140,6 +143,7 @@
 | [0542-01-matrix](https://github.com/kunalgupta21/DS_Algo/tree/master/0542-01-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalgupta21/DS_Algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalgupta21/DS_Algo/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Linked List
 |  |
 | ------- |
@@ -155,6 +159,7 @@
 | [0043-multiply-strings](https://github.com/kunalgupta21/DS_Algo/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/kunalgupta21/DS_Algo/tree/master/0070-climbing-stairs) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kunalgupta21/DS_Algo/tree/master/0779-k-th-symbol-in-grammar) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
