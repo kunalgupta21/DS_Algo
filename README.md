@@ -13,6 +13,7 @@
 | [0542-01-matrix](https://github.com/kunalgupta21/DS_Algo/tree/master/0542-01-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalgupta21/DS_Algo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0994-rotting-oranges](https://github.com/kunalgupta21/DS_Algo/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/kunalgupta21/DS_Algo/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kunalgupta21/DS_Algo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalgupta21/DS_Algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/kunalgupta21/DS_Algo/tree/master/0304-range-sum-query-2d-immutable) |
+| [1004-max-consecutive-ones-iii](https://github.com/kunalgupta21/DS_Algo/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kunalgupta21/DS_Algo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -78,6 +80,7 @@
 | [0076-minimum-window-substring](https://github.com/kunalgupta21/DS_Algo/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/kunalgupta21/DS_Algo/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/kunalgupta21/DS_Algo/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kunalgupta21/DS_Algo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalgupta21/DS_Algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/kunalgupta21/DS_Algo/tree/master/1652-defuse-the-bomb) |
@@ -110,6 +113,7 @@
 | [0035-search-insert-position](https://github.com/kunalgupta21/DS_Algo/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/kunalgupta21/DS_Algo/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalgupta21/DS_Algo/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/kunalgupta21/DS_Algo/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kunalgupta21/DS_Algo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Depth-First Search
 |  |
