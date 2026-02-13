@@ -15,6 +15,7 @@
 | [0994-rotting-oranges](https://github.com/kunalgupta21/DS_Algo/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kunalgupta21/DS_Algo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalgupta21/DS_Algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/kunalgupta21/DS_Algo/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunalgupta21/DS_Algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/kunalgupta21/DS_Algo/tree/master/1765-map-of-highest-peak) |
@@ -74,6 +75,7 @@
 | [0239-sliding-window-maximum](https://github.com/kunalgupta21/DS_Algo/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kunalgupta21/DS_Algo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalgupta21/DS_Algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/kunalgupta21/DS_Algo/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalgupta21/DS_Algo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -132,6 +134,7 @@
 | [0022-generate-parentheses](https://github.com/kunalgupta21/DS_Algo/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/kunalgupta21/DS_Algo/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/kunalgupta21/DS_Algo/tree/master/0542-01-matrix) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalgupta21/DS_Algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalgupta21/DS_Algo/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Linked List
 |  |
