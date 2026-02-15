@@ -22,6 +22,7 @@
 | [1765-map-of-highest-peak](https://github.com/kunalgupta21/DS_Algo/tree/master/1765-map-of-highest-peak) |
 | [1929-concatenation-of-array](https://github.com/kunalgupta21/DS_Algo/tree/master/1929-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -87,6 +88,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalgupta21/DS_Algo/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/kunalgupta21/DS_Algo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
