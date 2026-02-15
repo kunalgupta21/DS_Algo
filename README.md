@@ -10,6 +10,7 @@
 | [0200-number-of-islands](https://github.com/kunalgupta21/DS_Algo/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/kunalgupta21/DS_Algo/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kunalgupta21/DS_Algo/tree/master/0304-range-sum-query-2d-immutable) |
+| [0413-arithmetic-slices](https://github.com/kunalgupta21/DS_Algo/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/kunalgupta21/DS_Algo/tree/master/0542-01-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalgupta21/DS_Algo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0994-rotting-oranges](https://github.com/kunalgupta21/DS_Algo/tree/master/0994-rotting-oranges) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/kunalgupta21/DS_Algo/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/kunalgupta21/DS_Algo/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/kunalgupta21/DS_Algo/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalgupta21/DS_Algo/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kunalgupta21/DS_Algo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -146,6 +148,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunalgupta21/DS_Algo/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/kunalgupta21/DS_Algo/tree/master/0070-climbing-stairs) |
+| [0413-arithmetic-slices](https://github.com/kunalgupta21/DS_Algo/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/kunalgupta21/DS_Algo/tree/master/0542-01-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalgupta21/DS_Algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kunalgupta21/DS_Algo/tree/master/1653-minimum-deletions-to-make-string-balanced) |
