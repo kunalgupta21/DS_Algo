@@ -1,38 +1,24 @@
+import java.util.HashMap;
+
 class Solution {
     public int characterReplacement(String s, int k) {
-     int n=s.length();
-     int i=0,j=0;
-     HashMap<Character,Integer> map=new HashMap<>();
-     int len=0;
-     while(j<n){
-        char ch=s.charAt(j);
-        map.put(ch,map.getOrDefault(ch,0)+1);
-        if(isvalid(map)<=k){
-            len=Math.max(len,j-i+1);
+        HashMap<Character, Integer> freqs = new HashMap<>();
+        int res = 0, i = 0, maxFreq = 0;
 
-        }else{
-            while(isvalid(map)>k){
-                char temp=s.charAt(i);
-                map.put(temp,map.get(temp)-1);
-                if(map.get(temp)==0) map.remove(temp);
+        for (int j = 0; j < s.length(); j++) {
+            char c = s.charAt(j);
+            freqs.put(c, freqs.getOrDefault(c, 0) + 1);
+            maxFreq = Math.max(maxFreq, freqs.get(c));
+
+            while ((j - i + 1) - maxFreq > k) {
+                char left = s.charAt(i);
+                freqs.put(left, freqs.get(left) - 1);
                 i++;
             }
+
+            res = Math.max(res, j - i + 1);
         }
-        j++;
 
-
-
-     }
-     return len;
-
-    }
-    int isvalid(HashMap<Character,Integer> map){
-        int cnt=0;
-        int max=0;
-        for(Map.Entry<Character,Integer> e:map.entrySet()){
-            cnt+=e.getValue();
-            max=Math.max(max,e.getValue());
-        }
-        return cnt-max;
+        return res;
     }
 }
