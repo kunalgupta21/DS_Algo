@@ -191,6 +191,7 @@
 | [0187-repeated-dna-sequences](https://github.com/kunalgupta21/DS_Algo/tree/master/0187-repeated-dna-sequences) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kunalgupta21/DS_Algo/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/kunalgupta21/DS_Algo/tree/master/0784-letter-case-permutation) |
+| [0868-binary-gap](https://github.com/kunalgupta21/DS_Algo/tree/master/0868-binary-gap) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
