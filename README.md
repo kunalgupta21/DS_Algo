@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunalgupta21/DS_Algo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalgupta21/DS_Algo/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/kunalgupta21/DS_Algo/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/0047-permutations-ii) |
 | [0162-find-peak-element](https://github.com/kunalgupta21/DS_Algo/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/kunalgupta21/DS_Algo/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/kunalgupta21/DS_Algo/tree/master/0239-sliding-window-maximum) |
@@ -197,6 +198,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/0047-permutations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -207,6 +209,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunalgupta21/DS_Algo/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kunalgupta21/DS_Algo/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/0047-permutations-ii) |
 | [0784-letter-case-permutation](https://github.com/kunalgupta21/DS_Algo/tree/master/0784-letter-case-permutation) |
 ## Memoization
 |  |
