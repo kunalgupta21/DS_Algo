@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/kunalgupta21/DS_Algo/tree/master/0061-rotate-list) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## String
 |  |
@@ -174,6 +175,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/kunalgupta21/DS_Algo/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/kunalgupta21/DS_Algo/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
