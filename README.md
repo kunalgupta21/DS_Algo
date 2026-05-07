@@ -25,6 +25,7 @@
 | [1695-maximum-erasure-value](https://github.com/kunalgupta21/DS_Algo/tree/master/1695-maximum-erasure-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunalgupta21/DS_Algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/kunalgupta21/DS_Algo/tree/master/1765-map-of-highest-peak) |
+| [1861-rotating-the-box](https://github.com/kunalgupta21/DS_Algo/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/kunalgupta21/DS_Algo/tree/master/1929-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -41,6 +42,7 @@
 | [0994-rotting-oranges](https://github.com/kunalgupta21/DS_Algo/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/kunalgupta21/DS_Algo/tree/master/1314-matrix-block-sum) |
 | [1765-map-of-highest-peak](https://github.com/kunalgupta21/DS_Algo/tree/master/1765-map-of-highest-peak) |
+| [1861-rotating-the-box](https://github.com/kunalgupta21/DS_Algo/tree/master/1861-rotating-the-box) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalgupta21/DS_Algo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/kunalgupta21/DS_Algo/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/kunalgupta21/DS_Algo/tree/master/1861-rotating-the-box) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## String
 |  |
