@@ -25,6 +25,7 @@
 | [1695-maximum-erasure-value](https://github.com/kunalgupta21/DS_Algo/tree/master/1695-maximum-erasure-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunalgupta21/DS_Algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/kunalgupta21/DS_Algo/tree/master/1765-map-of-highest-peak) |
+| [1840-maximum-building-height](https://github.com/kunalgupta21/DS_Algo/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/kunalgupta21/DS_Algo/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/kunalgupta21/DS_Algo/tree/master/1929-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -191,6 +192,7 @@
 | [0043-multiply-strings](https://github.com/kunalgupta21/DS_Algo/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/kunalgupta21/DS_Algo/tree/master/0070-climbing-stairs) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kunalgupta21/DS_Algo/tree/master/0779-k-th-symbol-in-grammar) |
+| [1840-maximum-building-height](https://github.com/kunalgupta21/DS_Algo/tree/master/1840-maximum-building-height) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kunalgupta21/DS_Algo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Bit Manipulation
 |  |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/kunalgupta21/DS_Algo/tree/master/0047-permutations-ii) |
+| [1840-maximum-building-height](https://github.com/kunalgupta21/DS_Algo/tree/master/1840-maximum-building-height) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kunalgupta21/DS_Algo/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
